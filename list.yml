@@ -18,6 +18,15 @@ log-level: warning
 mixed-port: 7890
 mode: rule
 proxies:
+- name: 111
+  server: 138.2.98.161
+  port: 16954
+  cipher: aes-256-gcm
+  password: EontZX7dcv
+  client-fingerprint: chrome
+  tfo: false
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 防范境外势*渗透
