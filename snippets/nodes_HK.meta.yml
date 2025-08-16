@@ -95,11 +95,10 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 香港|@ripaojiedian
+  name: 🇭🇰 香港|@ripaojiedian
   network: ws
-  port: '30809'
+  port: 30809
   server: v9.heduian.link
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -126,8 +125,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 香港3|@ripaojiedian
-  network: tcp
+  name: 🇭🇰 香港3|@ripaojiedian
   password: 2ee85121-31de-4581-a492-eb00f606e392
   port: 443
   server: 103.252.116.138
@@ -135,8 +133,7 @@ proxies:
   sni: hk.freeguard.org
   type: trojan
 - client-fingerprint: chrome
-  name: 香港4|@ripaojiedian
-  network: tcp
+  name: 🇭🇰 香港4|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 447
   server: 36.156.102.125
@@ -146,11 +143,10 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 香港5|@ripaojiedian
+  name: 🇭🇰 香港5|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: hkt.gotochinatown.net
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -161,8 +157,7 @@ proxies:
       Host: broadcastlv.chat.bilibili.com
     path: /
 - client-fingerprint: chrome
-  name: 香港6|@ripaojiedian
-  network: tcp
+  name: 🇭🇰 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 444
   server: 36.156.102.125
@@ -172,11 +167,10 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 香港7|@ripaojiedian
+  name: 🇭🇰 香港7|@ripaojiedian
   network: ws
-  port: '80'
+  port: 80
   server: f0364aea-t13gg0-t1rksu-1ssud.hk3.p5pv.com
-  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -186,16 +180,6 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- alterId: 0
-  cipher: auto
-  name: 香港v2|@ripaojiedian
-  network: kcp
-  port: '3351'
-  server: 47.83.181.154
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0bfc8acf-ac40-45c1-8dde-7f3417621286
 - name: HK_speednode_0060
   network: ws
   port: 8880
