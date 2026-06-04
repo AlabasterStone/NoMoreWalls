@@ -109,17 +109,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 1040
-  server: 18.185.89.204
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 🕊⁹ @Fear_Config
+- name: ЁЯХКтБ╣ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -129,7 +119,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🕊³ @Fear_Config
+- name: ЁЯХК┬│ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -139,7 +129,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🕊⁶ @Fear_Config
+- name: ЁЯХКтБ╢ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -149,7 +139,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🕊¹ @Fear_Config
+- name: ЁЯХК┬╣ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -159,7 +149,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🕊² @Fear_Config
+- name: ЁЯХК┬▓ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -169,17 +159,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #4'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 48637
-  server: 18.185.89.204
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 🕊⁷ @Fear_Config
+- name: ЁЯХКтБ╖ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -189,17 +169,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #5'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 52848
-  server: 18.185.89.204
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 🕊⁴ @Fear_Config
+- name: ЁЯХКтБ┤ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -209,7 +179,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🕊⁵ @Fear_Config
+- name: ЁЯХКтБ╡ @Fear_Config
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -219,17 +189,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026 #8'
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: Masir_Sefid
-  port: 8880
-  server: 18.185.89.204
-  skip-cert-verify: false
-  sni: qus.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: '@internet_azad_2026  ⭐️'
+- name: '@internet_azad_2026  тнРя╕П'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -239,7 +199,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #1'
+- name: '@internet_azad_2026  тнРя╕П #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -249,7 +209,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #2'
+- name: '@internet_azad_2026  тнРя╕П #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -259,7 +219,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #3'
+- name: '@internet_azad_2026  тнРя╕П #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -269,7 +229,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #4'
+- name: '@internet_azad_2026  тнРя╕П #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -279,7 +239,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #5'
+- name: '@internet_azad_2026  тнРя╕П #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -289,7 +249,7 @@ proxies:
   sni: qs.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026  ⭐️ #6'
+- name: '@internet_azad_2026  тнРя╕П #6'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -309,7 +269,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🚀@V2ray_official
+- name: ЁЯЪА@V2ray_official
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -319,7 +279,7 @@ proxies:
   sni: qus.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: ⚡@V2ray_official
+- name: тЪб@V2ray_official
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -329,7 +289,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #1'
+- name: 'тЪб@V2ray_official #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -339,7 +299,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #2'
+- name: 'тЪб@V2ray_official #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -349,7 +309,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2025🕊✨️(5)'
+- name: '@internet_azad_2025ЁЯХКтЬия╕П(... #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -359,7 +319,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #3'
+- name: 'тЪб@V2ray_official #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -369,7 +329,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2025🕊✨️(2)'
+- name: '@internet_azad_2025ЁЯХКтЬия╕П(... #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -379,7 +339,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2025🕊✨️(9)'
+- name: '@internet_azad_2025ЁЯХКтЬия╕П(... #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -389,7 +349,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2025🕊✨️(6)'
+- name: '@internet_azad_2025ЁЯХКтЬия╕П(... #6'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -399,7 +359,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #4'
+- name: 'тЪб@V2ray_official #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -409,7 +369,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2025🕊✨️(3)'
+- name: '@internet_azad_2025ЁЯХКтЬия╕П(... #8'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -419,7 +379,17 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: 🇳🇱 - NL - @FreeOnlineVPN
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: Masir_Sefid
+  password: Masir_Sefid
+  port: 443
+  server: 65.109.216.181
+  skip-cert-verify: false
+  sni: qs.masir-sefid.shop
+  tls: false
+  type: hysteria2
+- name: ЁЯЗ│ЁЯЗ▒ - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -458,7 +428,7 @@ proxies:
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
   port: 53018
-  server: 18.181.199.223
+  server: 18.167.173.1
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
@@ -466,7 +436,7 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 11031
-  server: 95.40.4.37
+  server: 95.40.80.85
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -481,28 +451,27 @@ proxies:
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 30022
-  server: 43.207.209.201
+  port: 16712
+  server: 13.114.234.238
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 日本2|@ripaojiedian
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
-  port: 11541
-  server: 43.198.204.47
+  port: 31351
+  server: 43.207.82.19
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: JP_speednode_0012
+- name: 日本3|@ripaojiedian
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
-  port: 8066
-  server: 18.181.199.223
+  port: 2511
+  server: 16.162.32.32
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 新加坡|@ripaojiedian
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
@@ -511,36 +480,43 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: JP_speednode_0013
+- name: 新加坡2|@ripaojiedian
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
-  port: 3842
-  server: 18.181.199.223
+  port: 2511
+  server: 18.167.173.1
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 10478
+  port: 19465
   server: 43.199.217.71
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
+  type: trojan
+- name: 美国|@ripaojiedian
+  network: tcp
+  password: d84665c37878196ecf983cf6910e3b44
+  port: 5224
+  server: 18.167.173.1
+  skip-cert-verify: true
+  sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
   network: tcp
   password: d84665c37878196ecf983cf6910e3b44
   port: 6604
-  server: 18.162.232.155
+  server: 18.167.173.1
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 2702
-  server: 95.40.68.150
+  port: 22057
+  server: 18.166.154.20
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
@@ -633,6 +609,22 @@ proxies:
   type: http
   udp: true
   username: 44e76f8c-7362-11ec-bb74-f23c9164ca5d
+- name: JP_speednode_0012
+  password: d84665c37878196ecf983cf6910e3b44
+  port: 8066
+  server: 18.181.199.223
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+  udp: true
+- name: JP_speednode_0013
+  password: d84665c37878196ecf983cf6910e3b44
+  port: 3842
+  server: 18.181.199.223
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+  udp: true
 - name: NN_speednode_0014
   password: 16955d72-1794-11f0-a035-f23c95b6f51d
   port: 3233
